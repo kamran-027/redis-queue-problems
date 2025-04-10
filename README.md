@@ -1,11 +1,11 @@
-#Processing of solution of problems pushed onto the queue
+# Processing of solution of problems pushed onto the queue
 
-##Server
+## Server
 
 Server sends a submission to the Queue
 
 ---
 
-##Worker
+## Worker
 
 Worker picks up the problem from the queue and processes it
